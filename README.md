@@ -4,7 +4,7 @@ Proyecto de ingenieria de software 1 creacion de clase para la manipulacion de d
 Integrantes del equipo,
 Borbon Avitia Omar,
 Camargo Chacon Ricardo,
-Tepesano Cota Luis,
+Tepezano Cota Luis,
 Rodriguez Ramirez Alejandro,
 Noriega Encinas Luis,
 Martinez Espinoza Eduardo
